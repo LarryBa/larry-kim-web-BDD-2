@@ -49,7 +49,7 @@
     "webdriverio": "^4.8.0"
   },
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^6.5.1",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-node": "^5.1.1",
